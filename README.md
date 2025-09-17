@@ -16,3 +16,6 @@ javac -d out -sourcepath src src/view/ChessGUI.java
 
 # Executa o jogo
 java -cp "out;resources" view.ChessGUI
+
+
+As instruções acima são para que quem queira testar consiga rodar sem problemas pelo powershell, assim você garante que não terá um erro de diretório errado e tudo será compilado da melhor maneira 
